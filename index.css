@@ -1,0 +1,8 @@
+@media screen and (max-width: 722px) {
+  .card.person{
+    font-size: 0.75rem;
+  }
+  .body-home{
+    grid-template-columns: 1fr;
+  }
+}
